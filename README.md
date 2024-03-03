@@ -1,3 +1,5 @@
 # eudreka.-remoterepo
 this is remote repository
-"Hello World"
+public int sum(int b, int c){
+return b + c;
+}
